@@ -1,5 +1,4 @@
 # 🛡️ Keylogger Defender (Advanced)
-<<<<<<< HEAD
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Repo size](https://img.shields.io/github/repo-size/Mira2720/keylogger-defender-advanced)
