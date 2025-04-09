@@ -1,9 +1,12 @@
 # 🛡️ Keylogger Defender (Advanced)
+<<<<<<< HEAD
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Repo size](https://img.shields.io/github/repo-size/Mira2720/keylogger-defender-advanced)
 
 
+=======
+>>>>>>> 9f37feb26e97a53f32afe682b72c2fc21b0f2dce
 
 **Created by Mira2720 (GitHub: https://github.com/Mira2720)**
 
@@ -49,4 +52,8 @@ python keylogger_defender.py
 
 ---
 
+<<<<<<< HEAD
 ⚠️ **Educational use only. Unauthorized monitoring or scanning without consent is illegal.**
+=======
+⚠️ **Educational use only. Unauthorized monitoring or scanning without consent is illegal.**
+>>>>>>> 9f37feb26e97a53f32afe682b72c2fc21b0f2dce
