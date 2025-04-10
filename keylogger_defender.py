@@ -86,7 +86,7 @@ def scan_for_malware_signatures(directory='.'):
                 with open(filepath, "rb") as f:
                     content = f.read()
                     hash_digest = hashlib.sha256(content).hexdigest()
-                    if file in MALWARE_SIGNATURES and MALWARE_SIGNATURES[file] == hash_digest:
+                    if file in MALWARE_SIGNATURES[file] == hash_digest:
     log_alert(f"Malware signature match for file: {filepath}")
     quarantine_file(filepath)
 
