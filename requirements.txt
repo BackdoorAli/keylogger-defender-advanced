@@ -2,3 +2,4 @@ psutil
 watchdog
 plyer
 hashlib
+python/python3 #up-to-date
