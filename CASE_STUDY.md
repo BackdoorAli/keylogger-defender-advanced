@@ -1,20 +1,20 @@
-# 📘 Attribution
+# Attribution
 **Created by Mira2720 (GitHub: https://github.com/Mira2720)**
 
-# 🧪 Case Study: How Keylogger Defender Caught a Keylogger
+# Case Study: How Keylogger Defender Caught a Keylogger
 
-## 🧠 Scenario
+## Scenario
 
 As part of my cybersecurity learning journey, I created two related tools:
 
-- **🔐 Keylogger (Educational)** – Simulates a red team-style keylogger that captures keystrokes, clipboard data, and sends periodic emails.
-- **🛡️ Keylogger Defender** – A blue team tool that detects keylogger behaviors in real-time and alerts/logs the results.
+- ** Keylogger (Educational)** – Simulates a red team-style keylogger that captures keystrokes, clipboard data, and sends periodic emails.
+- ** Keylogger Defender** – A blue team tool that detects keylogger behaviors in real-time and alerts/logs the results.
 
 This case study demonstrates how the **defender** successfully detected and flagged the offensive tool.
 
 ---
 
-## 🖥️ Setup
+## Setup
 
 - Ran `keylogger.py` in a simulated lab environment (macOS)
 - Launched `keylogger_defender.py` simultaneously
@@ -27,7 +27,7 @@ This case study demonstrates how the **defender** successfully detected and flag
 
 ---
 
-## 🔍 What Happened During the Test
+## What Happened During the Test
 
 | Timeline | Event |
 |---------|-------|
@@ -41,7 +41,7 @@ This case study demonstrates how the **defender** successfully detected and flag
 
 ---
 
-## 📦 Detection Log (Sample)
+## Detection Log (Sample)
 
 ```
 [2025-04-09T21:13:15] Suspicious module 'pynput' found in process python3 (PID 4932)
@@ -52,7 +52,7 @@ This case study demonstrates how the **defender** successfully detected and flag
 
 ---
 
-## 🧾 Exported Reports
+## Exported Reports
 
 - `detection_log.txt` – Plain-text summary
 - `detection_log.json` – Used for structured reporting
@@ -60,7 +60,7 @@ This case study demonstrates how the **defender** successfully detected and flag
 
 ---
 
-## ✅ What This Proves
+## What This Proves
 
 - The defender script **successfully identified the offensive behavior** in multiple ways.
 - It demonstrated knowledge of both **red team techniques** and **blue team response strategies**.
@@ -69,7 +69,7 @@ This case study demonstrates how the **defender** successfully detected and flag
 
 ---
 
-## 🛠️ Next Steps
+## Next Steps
 
 - Add YARA rule support for deeper static analysis
 - Build a web-based dashboard using Flask or Streamlit
