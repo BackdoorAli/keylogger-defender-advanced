@@ -1,4 +1,4 @@
-# 🛡️ Keylogger Defender (Advanced)
+# Keylogger Defender (Advanced)
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Repo size](https://img.shields.io/github/repo-size/Mira2720/keylogger-defender-advanced)
@@ -7,7 +7,7 @@
 
 This advanced version of the original Keylogger Defender now includes real-time monitoring, malware signature detection, desktop notifications, and log exports to JSON/CSV.
 
-## 🚀 Features
+## Features
 
 - ✅ Real-time file system monitoring using `watchdog`
 - ✅ Desktop notifications for live alerts (`plyer`)
@@ -15,7 +15,7 @@ This advanced version of the original Keylogger Defender now includes real-time 
 - ✅ Log export to `.json` and `.csv`
 - ✅ Monitors use of known keylogger libraries (`pynput`, `keyboard`, `pyperclip`)
 
-## 🔧 Setup
+## Setup
 
 1. Clone or download the repo
 2. Install dependencies:
@@ -30,7 +30,7 @@ pip install -r requirements.txt
 python keylogger_defender.py
 ```
 
-## 📦 Output
+## Output
 
 - Alerts shown in real-time via desktop notification
 - Logs written to:
@@ -38,7 +38,7 @@ python keylogger_defender.py
   - `logs/detection_log.json`
   - `logs/detection_log.csv`
 
-## 📚 Future Ideas
+## Future Ideas
 
 - Build a GUI dashboard
 - Integrate with a basic local SIEM system
