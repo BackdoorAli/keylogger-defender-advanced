@@ -3,7 +3,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Repo size](https://img.shields.io/github/repo-size/Mira2720/keylogger-defender-advanced)
 
-**Created by @BackdoorAli (https://github.com/BackdoorAli)**
+**Created by BackdoorAli (https://github.com/BackdoorAli)**
 
 This advanced version of the original Keylogger Defender now includes real-time monitoring, malware signature detection, desktop notifications, and log exports to JSON/CSV.
 
