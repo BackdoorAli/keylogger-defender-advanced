@@ -1,6 +1,6 @@
 """
 Keylogger Defender (Advanced Version)
-Created by Mira2720 (GitHub: https://github.com/Mira2720) for educational and cybersecurity training purposes.
+Created by BackdoorAli (https://github.com/BackdoorAli) for educational and cybersecurity training purposes.
 Adds real-time monitoring, malware signature scanning, desktop alerts, and log export.
 """
 
