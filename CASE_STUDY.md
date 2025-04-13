@@ -1,5 +1,5 @@
 # Attribution
-**Created by BackdoorAli (GitHub: [https://github.com/BackdoorAli])**
+**Created by BackdoorAli [https://github.com/BackdoorAli]**
 
 # Case Study: How Keylogger Defender Caught a Keylogger
 
