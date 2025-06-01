@@ -5,7 +5,7 @@
 
 **Created by BackdoorAli (https://github.com/BackdoorAli)**
 
-This advanced version of the original Keylogger Defender now includes real-time monitoring, malware signature detection, desktop notifications, and log exports to JSON/CSV.
+This advanced version of the original Keylogger Defender now includes real-time monitoring, malware signature detection, desktop notifications and log exports to JSON/CSV.
 
 ## Features
 
