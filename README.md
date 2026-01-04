@@ -9,11 +9,11 @@ This advanced version of the original Keylogger Defender now includes real-time 
 
 ## Features
 
-- ✅ Real-time file system monitoring using `watchdog`
-- ✅ Desktop notifications for live alerts (`plyer`)
-- ✅ Malware signature matching by SHA256 hash
-- ✅ Log export to `.json` and `.csv`
-- ✅ Monitors use of known keylogger libraries (`pynput`, `keyboard`, `pyperclip`)
+- Real-time file system monitoring using `watchdog`
+- Desktop notifications for live alerts (`plyer`)
+- Malware signature matching by SHA256 hash
+- Log export to `.json` and `.csv`
+- Monitors use of known keylogger libraries (`pynput`, `keyboard`, `pyperclip`)
 
 ## Setup
 
@@ -46,4 +46,4 @@ python keylogger_defender.py
 
 ---
 
-⚠️ **Educational use only. Unauthorized monitoring or scanning without consent is illegal.**
+**Educational use only. Unauthorized monitoring or scanning without consent is illegal.**
