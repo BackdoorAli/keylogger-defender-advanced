@@ -46,4 +46,4 @@ python keylogger_defender.py
 
 ---
 
-**Educational use only. Unauthorized monitoring or scanning without consent is illegal.**
+**Educational use only. Unauthorised monitoring or scanning without consent is illegal.**
