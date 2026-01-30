@@ -33,9 +33,9 @@ This case study demonstrates how the **defender** successfully detected and flag
 |---------|-------|
 | `00:00` | Keylogger script started in terminal |
 | `00:01` | Defender detected use of `pynput` in running process |
-| `00:01` | Alert popped up: “⚠️ Suspicious module 'pynput' found in process python3” |
+| `00:01` | Alert popped up: “Suspicious module 'pynput' found in process python3” |
 | `00:02` | Defender noticed rapid updates to `keystrokes.txt` log file |
-| `00:03` | Alert triggered: “⚠️ Real-time change detected in logs/keystrokes.txt” |
+| `00:03` | Alert triggered: “Real-time change detected in logs/keystrokes.txt” |
 | `00:05` | Defender scanned `keylogger.py`, found hash match, and quarantined the file |
 | `00:05` | Logs exported to `.txt`, `.csv`, and `.json` formats for analysis |
 
