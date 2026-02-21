@@ -134,4 +134,4 @@ if __name__ == "__main__":
     except KeyboardInterrupt:
         observer.stop()
     observer.join()
-    print("🛑 Monitoring stopped. Logs exported.")
+    print("Monitoring stopped. Logs exported.")
